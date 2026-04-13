@@ -45,272 +45,122 @@ Copyright &copy; 2025 The authors
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-  {"Giới Thiệu" = "index.md"},
+  {"Giới Thiệu" = [
+    {"CHÀO MỪNG" = [
+     "index.md"
+    ]},
+    {"VỀ SỔ TAY" = [
+     "gioi-thieu/tac-y-ban-truyen-thong.md"
+    ]}
+  ]},
   {"Về Chương Trình" = [
-    {"QUY ĐỊNH CHUNG" = [
-     "ve-chuong-trinh/quy-dinh-chung/van-hoa-ung-xu.md"
+    {"PHƯƠNG PHÁP" = [
+     "ve-chuong-trinh/phuong-phap/so-net-ve-phuong-phap.md"
     ]},
-    {"CỘNG TÁC" = [
-     "ve-chuong-trinh/cong-tac/thu-outlook.md",
-     "ve-chuong-trinh/cong-tac/tin-nhan-zalo.md"
-    ]},
-    {"HIỆU SUẤT" = [
-     "ve-chuong-trinh/hieu-suat/truy-cap-file-thu-muc.md",
-     "ve-chuong-trinh/hieu-suat/quan-ly-clipboard.md"
+    {"NHỮNG ĐIỀU ĐỒNG THUẬN" = [
+     "ve-chuong-trinh/dong-thuan/dong-thuan-ten-goi.md",
+     "ve-chuong-trinh/dong-thuan/dong-thuan-tieu-chuan.md",
+     "ve-chuong-trinh/dong-thuan/dong-thuan-chuan-muc.md",
+     "ve-chuong-trinh/dong-thuan/dong-thuan-hinh-thuc-phuc-vu.md",
+     "ve-chuong-trinh/dong-thuan/dong-thuan-trang-phuc.md",
+     "ve-chuong-trinh/dong-thuan/nhung-dieu-nen-tranh.md"
     ]},
     {"KHÁC" = [
-     "ve-chuong-trinh/khac/dung-ai.md"
+     "ve-chuong-trinh/khac/loi-chia-se-tu-thay.md",
+     "ve-chuong-trinh/khac/thuong-thuc-can-biet.md"
     ]}
   ]},
   {"Điều Phối" = [
-    {"ĐIỀU HÀNH" = [
-     "dieu-phoi/dieu-hanh/quan-ly-nhan-su-toan-truong.md",
-     "dieu-phoi/dieu-hanh/phe-duyet-ke-hoach-cong-tac.md"
+    {"GIỚI THIỆU" = [
+     "dieu-phoi/gioi-thieu.md"
     ]},
-    {"GIÁM SÁT" = [
-     "dieu-phoi/giam-sat/giam-sat-hoat-dong-giang-day.md",
-     "dieu-phoi/giam-sat/danh-gia-hieu-qua-cong-tac.md"
-    ]},
-    {"QUAN HỆ ĐỐI NGOẠI" = [
-     "dieu-phoi/quan-he-doi-ngoai/lam-viec-voi-so-gddt.md",
-     "dieu-phoi/quan-he-doi-ngoai/tiep-phu-huynh-va-doi-tac.md"
-    ]},
-    {"KHÁC" = [
-     "dieu-phoi/khac/hop-ban-giam-hieu.md",
-     "dieu-phoi/khac/bao-cao-dinh-ky.md"
+    {"NHIỆM VỤ" = [
+     "dieu-phoi/nhiem-vu.md"
     ]}
   ]},
-  {"Huấn Luyện Viên" = [
-    {"GIẢNG DẠY" = [
-     "huan-luyen-vien/giang-day/tao-ban-trinh-chieu-bai-day.md"
+  {"MC / HLV" = [
+    {"GIỚI THIỆU" = [
+     "mc-hlv/gioi-thieu.md"
     ]},
-    {"KIỂM TRA & ĐÁNH GIÁ" = [
-     "huan-luyen-vien/kiem-tra-danh-gia/giao-bai-luyen-tap-online.md"
-    ]},
-    {"CHỦ NHIỆM" = [
-     "huan-luyen-vien/chu-nhiem/nhan-tin-sll-toi-phu-huynh.md"
-    ]},
-    {"KHÁC" = [
-     "huan-luyen-vien/khac/hop-to-chuyen-mon.md"
+    {"NHIỆM VỤ" = [
+     "mc-hlv/nhiem-vu.md"
     ]}
   ]},
-  {"Chăm Sóc Viên" = [
-    {"THU CHI" = [
-     "cham-soc-vien/thu-chi/quan-ly-thu-hoc-phi.md",
-     "cham-soc-vien/thu-chi/chi-tra-luong-va-phu-cap.md"
+  {"Ban Chăm Sóc" = [
+    {"GIỚI THIỆU" = [
+     "ban-cham-soc/gioi-thieu.md"
     ]},
-    {"KẾ HOẠCH TÀI CHÍNH" = [
-     "cham-soc-vien/ke-hoach-tai-chinh/lap-du-toan-ngan-sach.md",
-     "cham-soc-vien/ke-hoach-tai-chinh/quyet-toan-tai-chinh.md"
+    {"NHIỆM VỤ" = [
+     "ban-cham-soc/nhiem-vu.md"
     ]},
-    {"BÁO CÁO" = [
-     "cham-soc-vien/bao-cao/bao-cao-tai-chinh-dinh-ky.md",
-     "cham-soc-vien/bao-cao/kiem-toan-noi-bo.md"
-    ]},
-    {"KHÁC" = [
-     "cham-soc-vien/khac/quan-ly-hoa-don-chung-tu.md",
-     "cham-soc-vien/khac/lam-viec-voi-ngan-hang.md"
+    {"HỖ TRỢ NGƯỜI THAM GIA" = [
+     "ban-cham-soc/ho-tro-ntg.md",
+     "ban-cham-soc/cam-nang-ung-xu.md"
     ]}
   ]},
   {"Tổ Trưởng" = [
-    {"TUYỂN DỤNG" = [
-     "to-truong/tuyen-dung/dang-tin-tuyen-dung.md",
-     "to-truong/tuyen-dung/sang-loc-ho-so-ung-vien.md"
+    {"GIỚI THIỆU" = [
+     "to-truong/gioi-thieu.md"
     ]},
-    {"QUẢN LÝ HỒ SƠ" = [
-     "to-truong/quan-ly-ho-so/cap-nhat-ho-so-nhan-vien.md",
-     "to-truong/quan-ly-ho-so/quan-ly-hop-dong-lao-dong.md"
+    {"NHIỆM VỤ" = [
+     "to-truong/nhiem-vu.md"
     ]},
-    {"ĐÀO TẠO & PHÁT TRIỂN" = [
-     "to-truong/dao-tao-phat-trien/to-chuc-dao-tao-noi-bo.md",
-     "to-truong/dao-tao-phat-trien/danh-gia-nang-luc-nhan-vien.md"
+    {"HƯỚNG DẪN" = [
+     "to-truong/check-in.md",
+     "to-truong/theo-doi-nuoc-xo.md",
+     "to-truong/rung-chuong.md"
     ]},
-    {"KHÁC" = [
-     "to-truong/khac/cham-cong-va-tinh-luong.md",
-     "to-truong/khac/giai-quyet-che-do-phuc-loi.md"
+    {"THÁCH THỨC" = [
+     "to-truong/thach-thuc.md"
     ]}
   ]},
   {"Kỹ Thuật Viên" = [
-    {"VĂN BẢN ĐẾN" = [
-     "ky-thuat-vien/van-ban-den/tiep-nhan-va-phan-loai-van-ban.md",
-     "ky-thuat-vien/van-ban-den/trinh-lanh-dao-xu-ly.md"
+    {"GIỚI THIỆU" = [
+     "ky-thuat-vien/gioi-thieu.md"
     ]},
-    {"VĂN BẢN ĐI" = [
-     "ky-thuat-vien/van-ban-di/soan-thao-van-ban.md",
-     "ky-thuat-vien/van-ban-di/dong-dau-va-gui-van-ban.md"
+    {"NHIỆM VỤ & CHECKLIST" = [
+     "ky-thuat-vien/nhiem-vu-checklist.md"
     ]},
-    {"LƯu TRỮ" = [
-     "ky-thuat-vien/luu-tru/quan-ly-ho-so-tai-lieu.md",
-     "ky-thuat-vien/luu-tru/so-hoa-van-ban.md"
-    ]},
-    {"KHÁC" = [
-     "ky-thuat-vien/khac/quan-ly-con-dau.md",
-     "ky-thuat-vien/khac/thong-ke-van-ban.md"
+    {"HƯỚNG DẪN QUAY CHỤP" = [
+     "ky-thuat-vien/huong-dan-quay-chup.md"
     ]}
   ]},
   {"Sản Xuất Viên" = [
-    {"HỆ THỐNG" = [
-     "san-xuat-vien/he-thong/quan-tri-he-thong-mang.md",
-     "san-xuat-vien/he-thong/bao-tri-may-chu.md"
+    {"GIỚI THIỆU" = [
+     "san-xuat-vien/gioi-thieu.md"
     ]},
-    {"HỖ TRỢ KỸ THUẬT" = [
-     "san-xuat-vien/ho-tro-ky-thuat/xu-ly-su-co-phan-cung.md",
-     "san-xuat-vien/ho-tro-ky-thuat/ho-tro-phan-mem-cho-gv.md"
-    ]},
-    {"DỮ LIỆU" = [
-     "san-xuat-vien/du-lieu/sao-luu-du-lieu.md",
-     "san-xuat-vien/du-lieu/bao-mat-thong-tin.md"
-    ]},
-    {"KHÁC" = [
-     "san-xuat-vien/khac/cai-dat-thiet-bi-moi.md",
-     "san-xuat-vien/khac/dao-tao-su-dung-cong-nghe.md"
+    {"NHIỆM VỤ" = [
+     "san-xuat-vien/nhiem-vu.md"
     ]}
   ]},
   {"Hậu Cần Viên" = [
-    {"ĐIỂM DANH & THEO DÕI" = [
-     "hau-can-vien/diem-danh-theo-doi/kiem-tra-diem-danh-lop.md",
-     "hau-can-vien/diem-danh-theo-doi/theo-doi-hoc-sinh-vang-mat.md"
+    {"GIỚI THIỆU" = [
+     "hau-can-vien/gioi-thieu.md"
     ]},
-    {"KỶ LUẬT" = [
-     "hau-can-vien/ky-luat/xu-ly-vi-pham-noi-quy.md",
-     "hau-can-vien/ky-luat/ghi-nhan-khen-thuong.md"
+    {"NHIỆM VỤ" = [
+     "hau-can-vien/nhiem-vu.md"
     ]},
-    {"HỖ TRỢ HỌC SINH" = [
-     "hau-can-vien/ho-tro-hoc-sinh/tu-van-hoc-duong.md",
-     "hau-can-vien/ho-tro-hoc-sinh/giai-quyet-tranh-chap-hoc-sinh.md"
-    ]},
-    {"KHÁC" = [
-     "hau-can-vien/khac/kiem-tra-ve-sinh-lop-hoc.md",
-     "hau-can-vien/khac/to-chuc-sinh-hoat-tap-the.md"
+    {"HƯỚNG DẪN XỔ DẦU" = [
+     "hau-can-vien/huong-dan-xo-dau.md"
     ]}
   ]},
   {"Tư Vấn Viên" = [
-    {"HOẠT ĐỘNG ĐOÀN" = [
-     "tu-van-vien/hoat-dong-doan/to-chuc-sinh-hoat-chi-doan.md",
-     "tu-van-vien/hoat-dong-doan/quan-ly-doan-vien.md"
+    {"GIỚI THIỆU" = [
+     "tu-van-vien/gioi-thieu.md"
     ]},
-    {"HOẠT ĐỘNG ĐỘI" = [
-     "tu-van-vien/hoat-dong-doi/sinh-hoat-doi-thieu-nhi.md",
-     "tu-van-vien/hoat-dong-doi/ket-nap-doi-vien-moi.md"
+    {"XÉT DUYỆT" = [
+     "tu-van-vien/xet-duyet.md"
     ]},
-    {"SỰ KIỆN" = [
-     "tu-van-vien/su-kien/to-chuc-ngay-le-ky-niem.md",
-     "tu-van-vien/su-kien/phong-trao-thi-dua.md"
-    ]},
-    {"KHÁC" = [
-     "tu-van-vien/khac/bao-cao-hoat-dong-doan-doi.md",
-     "tu-van-vien/khac/phoi-hop-voi-dia-phuong.md"
+    {"SAU CHƯƠNG TRÌNH" = [
+     "tu-van-vien/tu-van-sau-ct.md"
     ]}
   ]},
-  {"Truyền Thông Viên" = [
-    {"THEO DÕI HỌC TẬP" = [
-     "truyen-thong-vien/theo-doi-hoc-tap/xem-diem-va-nhan-xet-cua-con.md",
-     "truyen-thong-vien/theo-doi-hoc-tap/xem-thoi-khoa-bieu.md"
+  {"Truyền Thông & Media" = [
+    {"GIỚI THIỆU" = [
+     "truyen-thong-media/gioi-thieu.md"
     ]},
-    {"LIÊN LẠC TRƯỜNG - NHÀ" = [
-     "truyen-thong-vien/lien-lac-truong-nha/nhan-thong-bao-tu-truong.md",
-     "truyen-thong-vien/lien-lac-truong-nha/nhan-tin-voi-giao-vien.md"
-    ]},
-    {"TÀI CHÍNH" = [
-     "truyen-thong-vien/tai-chinh/xem-va-thanh-toan-hoc-phi.md",
-     "truyen-thong-vien/tai-chinh/xem-chi-tieu-cua-con.md"
-    ]},
-    {"KHÁC" = [
-     "truyen-thong-vien/khac/dang-ky-hop-phu-huynh.md",
-     "truyen-thong-vien/khac/phan-hoi-va-gop-y.md"
-    ]}
-  ]},
-
-  {"Các Nhiệm Vụ Khác" = [
-    {"TƯ VẤN TÂM LÝ" = [
-      {"TƯ VẤN CÁ NHÂN" = [
-       "cac-nhiem-vu-khac/tu-van-tam-ly/tu-van-ca-nhan/tiep-nhan-hoc-sinh-tu-van.md",
-       "cac-nhiem-vu-khac/tu-van-tam-ly/tu-van-ca-nhan/ho-tro-tam-ly-hoc-duong.md"
-      ]},
-      {"KHẢO SÁT & ĐÁNH GIÁ" = [
-       "cac-nhiem-vu-khac/tu-van-tam-ly/khao-sat-danh-gia/khao-sat-suc-khoe-tam-ly.md",
-       "cac-nhiem-vu-khac/tu-van-tam-ly/khao-sat-danh-gia/phat-hien-hoc-sinh-co-nguy-co.md"
-      ]},
-      {"ĐÀO TẠO" = [
-       "cac-nhiem-vu-khac/tu-van-tam-ly/dao-tao/to-chuc-buoi-noi-chuyen-tam-ly.md",
-       "cac-nhiem-vu-khac/tu-van-tam-ly/dao-tao/huong-dan-ky-nang-song.md"
-      ]},
-      {"KHÁC" = [
-       "cac-nhiem-vu-khac/tu-van-tam-ly/khac/lam-viec-voi-phu-huynh.md",
-       "cac-nhiem-vu-khac/tu-van-tam-ly/khac/bao-cao-tinh-hinh-tam-ly-hs.md"
-      ]}
-    ]},
-    {"Y TẾ" = [
-      {"KHÁM SỨC KHỎE" = [
-       "cac-nhiem-vu-khac/y-te/kham-suc-khoe/kham-suc-khoe-dinh-ky.md",
-       "cac-nhiem-vu-khac/y-te/kham-suc-khoe/theo-doi-so-suc-khoe-hoc-sinh.md"
-      ]},
-      {"SƠ CỨU & CHĂM SÓC" = [
-       "cac-nhiem-vu-khac/y-te/so-cuu-cham-soc/xu-ly-cap-cuu-ban-dau.md",
-       "cac-nhiem-vu-khac/y-te/so-cuu-cham-soc/phat-thuoc-cho-hoc-sinh.md"
-      ]},
-      {"PHÒNG CHỐNG DỊCH BỆNH" = [
-       "cac-nhiem-vu-khac/y-te/phong-chong-dich-benh/tiem-chung-va-phong-benh.md",
-       "cac-nhiem-vu-khac/y-te/phong-chong-dich-benh/giam-sat-ve-sinh-an-toan-thuc-pham.md"
-      ]},
-      {"KHÁC" = [
-       "cac-nhiem-vu-khac/y-te/khac/tuyen-truyen-giao-duc-suc-khoe.md",
-       "cac-nhiem-vu-khac/y-te/khac/bao-cao-y-te.md"
-      ]}
-    ]},
-    {"CƠ SỞ VẬT CHẤT" = [
-      {"BẢO TRÌ" = [
-       "cac-nhiem-vu-khac/co-so-vat-chat/bao-tri/sua-chua-co-so-ha-tang.md",
-       "cac-nhiem-vu-khac/co-so-vat-chat/bao-tri/bao-duong-thiet-bi.md"
-      ]},
-      {"QUẢN LÝ TÀI SẢN" = [
-       "cac-nhiem-vu-khac/co-so-vat-chat/quan-ly-tai-san/kiem-ke-tai-san.md",
-       "cac-nhiem-vu-khac/co-so-vat-chat/quan-ly-tai-san/cap-phat-do-dung-thiet-bi.md"
-      ]},
-      {"XÂY DỰNG & CẢI TẠO" = [
-       "cac-nhiem-vu-khac/co-so-vat-chat/xay-dung-cai-tao/giam-sat-thi-cong-cong-trinh.md",
-       "cac-nhiem-vu-khac/co-so-vat-chat/xay-dung-cai-tao/mua-sam-thiet-bi-moi.md"
-      ]},
-      {"KHÁC" = [
-       "cac-nhiem-vu-khac/co-so-vat-chat/khac/quan-ly-kho.md",
-       "cac-nhiem-vu-khac/co-so-vat-chat/khac/bao-cao-tinh-trang-csvc.md"
-      ]}
-    ]},
-    {"BẢO VỆ" = [
-      {"KIỂM SOÁT RA VÀO" = [
-       "cac-nhiem-vu-khac/bao-ve/kiem-soat-ra-vao/kiem-tra-nguoi-va-phuong-tien.md",
-       "cac-nhiem-vu-khac/bao-ve/kiem-soat-ra-vao/quan-ly-the-ra-vao.md"
-      ]},
-      {"TUẦN TRA & GIÁM SÁT" = [
-       "cac-nhiem-vu-khac/bao-ve/tuan-tra-giam-sat/tuan-tra-khuon-vien-truong.md",
-       "cac-nhiem-vu-khac/bao-ve/tuan-tra-giam-sat/giam-sat-camera-an-ninh.md"
-      ]},
-      {"XỬ LÝ SỰ CỐ" = [
-       "cac-nhiem-vu-khac/bao-ve/xu-ly-su-co/xu-ly-tinh-huong-khan-cap.md",
-       "cac-nhiem-vu-khac/bao-ve/xu-ly-su-co/phoi-hop-voi-co-quan-chuc-nang.md"
-      ]},
-      {"KHÁC" = [
-       "cac-nhiem-vu-khac/bao-ve/khac/bao-cao-tinh-hinh-an-ninh.md",
-       "cac-nhiem-vu-khac/bao-ve/khac/huong-dan-do-xe.md"
-      ]}
-    ]},
-    {"LAO CÔNG" = [
-      {"VỆ SINH" = [
-       "cac-nhiem-vu-khac/lao-cong/ve-sinh/ve-sinh-phong-hoc-hanh-lang.md",
-       "cac-nhiem-vu-khac/lao-cong/ve-sinh/ve-sinh-san-truong-khu-vuc-chung.md"
-      ]},
-      {"RÁC THẢI" = [
-       "cac-nhiem-vu-khac/lao-cong/rac-thai/thu-gom-va-phan-loai-rac.md",
-       "cac-nhiem-vu-khac/lao-cong/rac-thai/xu-ly-rac-thai.md"
-      ]},
-      {"CHĂM SÓC CÂY XANH" = [
-       "cac-nhiem-vu-khac/lao-cong/cham-soc-cay-xanh/tuoi-cay-cat-tia.md",
-       "cac-nhiem-vu-khac/lao-cong/cham-soc-cay-xanh/trong-va-cham-soc-cay-canh.md"
-      ]},
-      {"KHÁC" = [
-       "cac-nhiem-vu-khac/lao-cong/khac/ho-tro-su-kien-cua-truong.md",
-       "cac-nhiem-vu-khac/lao-cong/khac/bao-cao-tinh-trang-ve-sinh.md"
-      ]}
+    {"NHIỆM VỤ" = [
+     "truyen-thong-media/nhiem-vu.md"
     ]}
   ]}
 ]

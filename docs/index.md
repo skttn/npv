@@ -1,166 +1,40 @@
 ---
-icon: lucide/rocket
+icon: lucide/book-open
 ---
 
-# Get started
+# SỔ TAY NGƯỜI PHỤC VỤ
 
-For full documentation visit [zensical.org](https://zensical.org/docs/).
+**CHƯƠNG TRÌNH THANH LỌC THÂN TÂM**
 
-## Commands
+*Tổng hợp những hướng dẫn và quy ước chung*
 
-* [`zensical new`][new] - Create a new project
-* [`zensical serve`][serve] - Start local web server
-* [`zensical build`][build] - Build your site
+---
 
-  [new]: https://zensical.org/docs/usage/new/
-  [serve]: https://zensical.org/docs/usage/preview/
-  [build]: https://zensical.org/docs/usage/build/
+## Lời Dẫn
 
-## Examples
+> *"Bàn tay năm ngón, không ngón nào giống nhau.*
+> *Mỗi ngón đảm nhiệm 1 vai trò chuyên biệt và không thể thiếu được.*
+> *Người Phục Vụ hãy học theo đó mà hòa hợp, nâng đỡ nhau trong lúc phục vụ thiện pháp."*
+>
+> — Theo sự hướng dẫn của **Thầy Tâm Thành**
 
-### Admonitions
+---
 
-> Go to [documentation](https://zensical.org/docs/authoring/admonitions/)
+## Chào Mừng Bạn Đến Với Gia Đình Thanh Lọc Thân Tâm
 
-!!! note
+Thật lòng biết ơn Bạn đã phát tâm trong sạch, trở về phục vụ cộng đồng, sau khi đã chứng nghiệm những lợi lạc chân thật mà Phương pháp này đã mang đến cho chính mình, cho mọi người và cho môi trường - Vũ Trụ xung quanh.
 
-    This is a **note** admonition. Use it to provide helpful information.
+Những thiện ý ấy, lành thay, đã đủ mạnh mẽ để trở thành hành động chân chính, cùng Gia đình TLTT lan tỏa Nghệ thuật sống khoẻ thuận tự nhiên, góp phần kiến tạo một xã hội an vui, hòa hợp, tôn trọng luật Vũ Trụ.
 
-!!! warning
+Như lời Thầy đã luôn nhắn nhủ Người Phục Vụ (NPV) chúng ta, việc phục vụ này, trước hết, là cơ hội tốt để mỗi NPV thực tập cho chính mình, củng cố kiến thức sức khỏe và rèn luyện năng lực thực hành Chánh niệm, Tỉnh giác của bản thân trong mọi hành động. Tiến trình thanh lọc Thân và Tâm liên tục diễn ra ngay trong khi ta phục vụ chương trình.
 
-    This is a **warning** admonition. Be careful!
+**Chúng ta chỉ có thể cho đi những gì mà ta thật sự có được.**
 
-### Details
+### Nguyện Ước
 
-> Go to [documentation](https://zensical.org/docs/authoring/admonitions/#collapsible-blocks)
-
-??? info "Click to expand for more info"
-    
-    This content is hidden until you click to expand it.
-    Great for FAQs or long explanations.
-
-## Code Blocks
-
-> Go to [documentation](https://zensical.org/docs/authoring/code-blocks/)
-
-``` python hl_lines="2" title="Code blocks"
-def greet(name):
-    print(f"Hello, {name}!") # (1)!
-
-greet("Python")
-```
-
-1.  > Go to [documentation](https://zensical.org/docs/authoring/code-blocks/#code-annotations)
-
-    Code annotations allow to attach notes to lines of code.
-
-Code can also be highlighted inline: `#!python print("Hello, Python!")`.
-
-## Content tabs
-
-> Go to [documentation](https://zensical.org/docs/authoring/content-tabs/)
-
-=== "Python"
-
-    ``` python
-    print("Hello from Python!")
-    ```
-
-=== "Rust"
-
-    ``` rs
-    println!("Hello from Rust!");
-    ```
-
-## Diagrams
-
-> Go to [documentation](https://zensical.org/docs/authoring/diagrams/)
-
-``` mermaid
-graph LR
-  A[Start] --> B{Error?};
-  B -->|Yes| C[Hmm...];
-  C --> D[Debug];
-  D --> B;
-  B ---->|No| E[Yay!];
-```
-
-## Footnotes
-
-> Go to [documentation](https://zensical.org/docs/authoring/footnotes/)
-
-Here's a sentence with a footnote.[^1]
-
-Hover it, to see a tooltip.
-
-[^1]: This is the footnote.
+- Nguyện cho những Thiện ý đều được trọn thành.
+- Nguyện cho tất cả NPV ngày càng hoàn thiện mình, nhờ vào sự thực tập và phục vụ thiện pháp này.
+- Nguyện cho tất cả NPV đều hòa hợp, an vui, hạnh phúc, giải thoát và giải thoát thật sự.
 
 
-## Formatting
 
-> Go to [documentation](https://zensical.org/docs/authoring/formatting/)
-
-- ==This was marked (highlight)==
-- ^^This was inserted (underline)^^
-- ~~This was deleted (strikethrough)~~
-- H~2~O
-- A^T^A
-- ++ctrl+alt+del++
-
-## Icons, Emojis
-
-> Go to [documentation](https://zensical.org/docs/authoring/icons-emojis/)
-
-* :sparkles: `:sparkles:`
-* :rocket: `:rocket:`
-* :tada: `:tada:`
-* :memo: `:memo:`
-* :eyes: `:eyes:`
-
-## Maths
-
-> Go to [documentation](https://zensical.org/docs/authoring/math/)
-
-$$
-\cos x=\sum_{k=0}^{\infty}\frac{(-1)^k}{(2k)!}x^{2k}
-$$
-
-!!! warning "Needs configuration"
-    Note that MathJax is included via a `script` tag on this page and is not
-    configured in the generated default configuration to avoid including it
-    in a pages that do not need it. See the documentation for details on how
-    to configure it on all your pages if they are more Maths-heavy than these
-    simple starter pages.
-
-<script id="MathJax-script" async src="https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
-<script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [["\\(", "\\)"]],
-      displayMath: [["\\[", "\\]"]],
-      processEscapes: true,
-      processEnvironments: true
-    },
-    options: {
-      ignoreHtmlClass: ".*|",
-      processHtmlClass: "arithmatex"
-    }
-  };
-</script>
-
-## Task Lists
-
-> Go to [documentation](https://zensical.org/docs/authoring/lists/#using-task-lists)
-
-* [x] Install Zensical
-* [x] Configure `zensical.toml`
-* [x] Write amazing documentation
-* [ ] Deploy anywhere
-
-## Tooltips
-
-> Go to [documentation](https://zensical.org/docs/authoring/tooltips/)
-
-[Hover me][example]
-
-  [example]: https://example.com "I'm a tooltip!"
