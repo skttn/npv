@@ -2,7 +2,7 @@
 icon: lucide/list-checks
 ---
 
-# Điều Phối Cần Làm Những Gì?
+# Điều Phối Viên Cần Làm Những Gì?
 
 Một Điều phối viên sẽ phụ trách các nhiệm vụ sau:
 
@@ -33,7 +33,7 @@ Một Điều phối viên sẽ phụ trách các nhiệm vụ sau:
 
 - Bàn giao, quyết toán.
 - Báo cáo đến các bộ phận của Công ty (Ban lãnh đạo, Tài chính - Kế toán, Văn phòng, Xưởng...).
-- Tổng hợp hình ảnh/video gửi cho Ban Truyền thông.
+- Tổng hợp hình ảnh/video gửi cho Truyền Thông Viên.
 
 ---
 

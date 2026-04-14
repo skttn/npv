@@ -46,18 +46,18 @@ Copyright &copy; 2025 The authors
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
   {"Giới Thiệu" = [
-    {"CHÀO MỪNG" = [
+    {"Chào Mừng" = [
      "index.md"
     ]},
-    {"VỀ SỔ TAY" = [
+    {"Về Sổ Tay" = [
      "gioi-thieu/tac-y-ban-truyen-thong.md"
     ]}
   ]},
   {"Về Chương Trình" = [
-    {"PHƯƠNG PHÁP" = [
+    {"Phương Pháp" = [
      "ve-chuong-trinh/phuong-phap/so-net-ve-phuong-phap.md"
     ]},
-    {"NHỮNG ĐIỀU ĐỒNG THUẬN" = [
+    {"Những Điều Đồng Thuận" = [
      "ve-chuong-trinh/dong-thuan/dong-thuan-ten-goi.md",
      "ve-chuong-trinh/dong-thuan/dong-thuan-tieu-chuan.md",
      "ve-chuong-trinh/dong-thuan/dong-thuan-chuan-muc.md",
@@ -65,102 +65,102 @@ nav = [
      "ve-chuong-trinh/dong-thuan/dong-thuan-trang-phuc.md",
      "ve-chuong-trinh/dong-thuan/nhung-dieu-nen-tranh.md"
     ]},
-    {"KHÁC" = [
+    {"Khác" = [
      "ve-chuong-trinh/khac/loi-chia-se-tu-thay.md",
      "ve-chuong-trinh/khac/thuong-thuc-can-biet.md"
     ]}
   ]},
   {"Điều Phối" = [
-    {"GIỚI THIỆU" = [
+    {"Giới Thiệu" = [
      "dieu-phoi/gioi-thieu.md"
     ]},
-    {"NHIỆM VỤ" = [
+    {"Nhiệm Vụ" = [
      "dieu-phoi/nhiem-vu.md"
     ]}
   ]},
-  {"MC / HLV" = [
-    {"GIỚI THIỆU" = [
-     "mc-hlv/gioi-thieu.md"
+  {"Huấn Luyện" = [
+    {"Giới Thiệu" = [
+     "huan-luyen/gioi-thieu.md"
     ]},
-    {"NHIỆM VỤ" = [
-     "mc-hlv/nhiem-vu.md"
+    {"Nhiệm Vụ" = [
+     "huan-luyen/nhiem-vu.md"
     ]}
   ]},
-  {"Ban Chăm Sóc" = [
-    {"GIỚI THIỆU" = [
-     "ban-cham-soc/gioi-thieu.md"
+  {"Chăm Sóc" = [
+    {"Giới Thiệu" = [
+     "cham-soc/gioi-thieu.md"
     ]},
-    {"NHIỆM VỤ" = [
-     "ban-cham-soc/nhiem-vu.md"
+    {"Nhiệm Vụ" = [
+     "cham-soc/nhiem-vu.md"
     ]},
-    {"HỖ TRỢ NGƯỜI THAM GIA" = [
-     "ban-cham-soc/ho-tro-ntg.md",
-     "ban-cham-soc/cam-nang-ung-xu.md"
+    {"Hỗ Trợ Người Tham Gia" = [
+     "cham-soc/ho-tro-ntg.md",
+     "cham-soc/cam-nang-ung-xu.md"
     ]}
   ]},
   {"Tổ Trưởng" = [
-    {"GIỚI THIỆU" = [
+    {"Giới Thiệu" = [
      "to-truong/gioi-thieu.md"
     ]},
-    {"NHIỆM VỤ" = [
+    {"Nhiệm Vụ" = [
      "to-truong/nhiem-vu.md"
     ]},
-    {"HƯỚNG DẪN" = [
+    {"Hướng Dẫn" = [
      "to-truong/check-in.md",
      "to-truong/theo-doi-nuoc-xo.md",
      "to-truong/rung-chuong.md"
     ]},
-    {"THÁCH THỨC" = [
+    {"Thách Thức" = [
      "to-truong/thach-thuc.md"
     ]}
   ]},
-  {"Kỹ Thuật Viên" = [
-    {"GIỚI THIỆU" = [
-     "ky-thuat-vien/gioi-thieu.md"
+  {"Kỹ Thuật" = [
+    {"Giới Thiệu" = [
+     "ky-thuat/gioi-thieu.md"
     ]},
-    {"NHIỆM VỤ & CHECKLIST" = [
-     "ky-thuat-vien/nhiem-vu-checklist.md"
+    {"Nhiệm Vụ & Checklist" = [
+     "ky-thuat/nhiem-vu-checklist.md"
     ]},
-    {"HƯỚNG DẪN QUAY CHỤP" = [
-     "ky-thuat-vien/huong-dan-quay-chup.md"
+    {"Hướng Dẫn Quay Chụp" = [
+     "ky-thuat/huong-dan-quay-chup.md"
     ]}
   ]},
-  {"Sản Xuất Viên" = [
-    {"GIỚI THIỆU" = [
-     "san-xuat-vien/gioi-thieu.md"
+  {"Sản Xuất" = [
+    {"Giới Thiệu" = [
+     "san-xuat/gioi-thieu.md"
     ]},
-    {"NHIỆM VỤ" = [
-     "san-xuat-vien/nhiem-vu.md"
+    {"Nhiệm Vụ" = [
+     "san-xuat/nhiem-vu.md"
     ]}
   ]},
-  {"Hậu Cần Viên" = [
-    {"GIỚI THIỆU" = [
-     "hau-can-vien/gioi-thieu.md"
+  {"Hậu Cần" = [
+    {"Giới Thiệu" = [
+     "hau-can/gioi-thieu.md"
     ]},
-    {"NHIỆM VỤ" = [
-     "hau-can-vien/nhiem-vu.md"
+    {"Nhiệm Vụ" = [
+     "hau-can/nhiem-vu.md"
     ]},
-    {"HƯỚNG DẪN XỔ DẦU" = [
-     "hau-can-vien/huong-dan-xo-dau.md"
+    {"Hướng Dẫn Xổ Dầu" = [
+     "hau-can/huong-dan-xo-dau.md"
     ]}
   ]},
-  {"Tư Vấn Viên" = [
-    {"GIỚI THIỆU" = [
-     "tu-van-vien/gioi-thieu.md"
+  {"Tư Vấn" = [
+    {"Giới Thiệu" = [
+     "tu-van/gioi-thieu.md"
     ]},
-    {"XÉT DUYỆT" = [
-     "tu-van-vien/xet-duyet.md"
+    {"Xét Duyệt" = [
+     "tu-van/xet-duyet.md"
     ]},
-    {"SAU CHƯƠNG TRÌNH" = [
-     "tu-van-vien/tu-van-sau-ct.md"
+    {"Sau Chương Trình" = [
+     "tu-van/tu-van-sau-ct.md"
     ]}
   ]},
-  {"Truyền Thông & Media" = [
-    {"GIỚI THIỆU" = [
-     "truyen-thong-media/gioi-thieu.md"
+  {"Truyền Thông" = [
+    {"Giới Thiệu" = [
+     "truyen-thong/gioi-thieu.md"
     ]},
-    {"NHIỆM VỤ" = [
-     "truyen-thong-media/nhiem-vu.md"
+    {"Nhiệm Vụ" = [
+     "truyen-thong/nhiem-vu.md"
     ]}
   ]}
 ]
@@ -394,8 +394,8 @@ toggle.name = "Switch to light mode"
 # a monospaced font used in code blocks.
 # ----------------------------------------------------------------------------
 [project.theme.font]
-text = "Roboto"
-code = "Source Code Pro"
+text = "Literata"
+code = "JetBrains Mono"
 
 # ----------------------------------------------------------------------------
 # You can configure your own logo to be shown in the header using the "logo"

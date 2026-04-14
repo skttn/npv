@@ -2,9 +2,9 @@
 icon: lucide/list-checks
 ---
 
-# MC/HLV Cần Làm Những Gì?
+# Huấn Luyện Viên Cần Làm Những Gì?
 
-Các công tác cơ bản của MC/HLV trong 01 chương trình gồm có:
+Các công tác cơ bản của Huấn Luyện Viên trong 01 chương trình gồm có:
 
 ---
 

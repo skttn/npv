@@ -12,7 +12,7 @@ icon: lucide/shirt
 |---------|-----------|
 | **MC / Điều phối** | Nữ: áo dài truyền thống hoặc cách tân, pháp phục kín đáo. Nam: pháp phục hoặc trang phục thoải mái, lịch sự. |
 | **Ban Chăm sóc** | Trang phục lịch sự thoải mái phù hợp để chăm sóc cho người tham gia. **Không** sử dụng trang phục dễ gây liên tưởng đến Y tế: áo blouse, đeo ống nghe... |
-| **NPV / Hậu cần** | Trang phục gọn gàng, lịch sự, thoải mái, phù hợp với công việc. |
+| **Hậu Cần Viên** | Trang phục gọn gàng, lịch sự, thoải mái, phù hợp với công việc. |
 | **Sản xuất** | Đồng phục TLTT, trang bị đầy đủ dụng cụ bảo hộ vệ sinh ATTP. |
 
 ---

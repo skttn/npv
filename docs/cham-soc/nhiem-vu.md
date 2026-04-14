@@ -2,9 +2,9 @@
 icon: lucide/list-checks
 ---
 
-# Ban Chăm Sóc Cần Làm Những Gì?
+# Chăm Sóc Viên Cần Làm Những Gì?
 
-Các công tác cơ bản của NPV Ban Chăm sóc trong 1 chương trình gồm có:
+Các công tác cơ bản của Chăm Sóc Viên trong 1 chương trình gồm có:
 
 ---
 

@@ -11,7 +11,7 @@ icon: lucide/list-checks
 - **Chuẩn bị thực dược:** Sản xuất/pha chế, đóng chai, xếp ra khay theo từng nhóm số thứ tự, vận chuyển lên hội trường, thu hồi chai, rửa và úp chai theo thứ tự.
 - Chuẩn bị dầu xổ, chanh gừng.
 - Sơ chế và đóng thức ăn ra / thực dược cho người tham gia mang về.
-- Hỗ trợ các nhu cầu từ hội trường, đặc biệt là **Ban Chăm sóc**.
+- Hỗ trợ các nhu cầu từ hội trường, đặc biệt là **Chăm Sóc Viên**.
 
 ---
 

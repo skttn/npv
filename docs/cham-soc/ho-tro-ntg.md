@@ -4,7 +4,7 @@ icon: lucide/ambulance
 
 # 4 Bước Hỗ Trợ Người Tham Gia
 
-Đây là kịch bản chung trong hầu hết các tình huống người tham gia chưa được khoẻ mà **tất cả NPV dù công tác ở vị trí nào cũng cần nắm rõ**. Ban Chăm Sóc cần phổ biến đến toàn bộ đội ngũ NPV trước mỗi chương trình.
+Đây là kịch bản chung trong hầu hết các tình huống người tham gia chưa được khoẻ mà **tất cả NPV dù công tác ở vị trí nào cũng cần nắm rõ**. Chăm Sóc Viên cần phổ biến đến toàn bộ đội ngũ NPV trước mỗi chương trình.
 
 ---
 
@@ -28,9 +28,9 @@ Dựa vào mức độ tỉnh táo, có 2 hướng ứng xử:
 
 ---
 
-## Bước 4 — Liên Lạc Ban Chăm Sóc
+## Bước 4 — Liên Lạc Chăm Sóc Viên
 
-Nhanh chóng liên lạc hoặc nhờ người liên lạc với thành viên Ban Chăm Sóc để hỗ trợ sớm nhất.
+Nhanh chóng liên lạc hoặc nhờ người liên lạc với Chăm Sóc Viên để hỗ trợ sớm nhất.
 
 ---
 

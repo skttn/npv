@@ -2,7 +2,7 @@
 icon: lucide/tv-2
 ---
 
-# Truyền Thông & Media
+# Truyền Thông Viên
 
 Một phần tri thức mà Thầy Tâm Thành có được là nhờ việc **ghi chép/đánh máy lại** các bài giảng của các vị Thầy lớn.
 
