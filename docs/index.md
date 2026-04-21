@@ -2,9 +2,9 @@
 icon: lucide/book-open
 ---
 
-# SỔ TAY NGƯỜI PHỤC VỤ
+# Chào Mừng
 
-**CHƯƠNG TRÌNH THANH LỌC THÂN TÂM**
+**CHƯƠNG TRÌNH SỐNG KHỎE THUẬN TỰ NHIÊN**
 
 *Tổng hợp những hướng dẫn và quy ước chung*
 
@@ -20,7 +20,7 @@ icon: lucide/book-open
 
 ---
 
-## Chào Mừng Bạn Đến Với Gia Đình Thanh Lọc Thân Tâm
+## Chào Mừng Bạn Đến Với Gia Đình Sống Khỏe Thuận Tự Nhiên
 
 Thật lòng biết ơn Bạn đã phát tâm trong sạch, trở về phục vụ cộng đồng, sau khi đã chứng nghiệm những lợi lạc chân thật mà Phương pháp này đã mang đến cho chính mình, cho mọi người và cho môi trường - Vũ Trụ xung quanh.
 

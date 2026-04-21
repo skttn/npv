@@ -11,13 +11,13 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "SỔ TAY NGƯỜI PHỤC VỤ"
+site_name = "Sổ Tay Người Phục Vụ"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "A new project generated from the default template project."
+site_description = "Tổng Hợp Những Hướng Dẫn và Quy Ước Chung dành cho Người Phục Vụ chương trình Sống Khỏe Thuận Tự Nhiên"
 
 # The site_author attribute. This is used in the HTML head element.
 #

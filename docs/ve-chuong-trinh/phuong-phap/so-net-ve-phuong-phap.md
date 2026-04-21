@@ -2,9 +2,9 @@
 icon: lucide/info
 ---
 
-# Sơ Nét Về Phương Pháp Thanh Lọc Thân Tâm
+# Sơ Nét Về Phương Pháp Sống Khỏe Thuận Tự Nhiên
 
-Mỗi thành viên khi đến với Thanh Lọc Thân Tâm sẽ có những trải nghiệm và chứng nghiệm khác nhau. Điều này dẫn đến những ấn tượng khác nhau về Phương pháp này. Do đó, việc nhất quán về các định nghĩa sử dụng trong chương trình Thanh Lọc Thân Tâm là cần thiết.
+Mỗi thành viên khi đến với Sống Khỏe Thuận Tự Nhiên sẽ có những trải nghiệm và chứng nghiệm khác nhau. Điều này dẫn đến những ấn tượng khác nhau về Phương pháp này. Do đó, việc nhất quán về các định nghĩa sử dụng trong chương trình Sống Khỏe Thuận Tự Nhiên là cần thiết.
 
 Việc hiểu đúng về các khái niệm sẽ giúp cho NPV xác lập đúng tâm thế khi phục vụ chương trình:
 

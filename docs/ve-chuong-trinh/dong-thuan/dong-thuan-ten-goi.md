@@ -4,7 +4,7 @@ icon: lucide/users
 
 # Đồng Thuận Về Tên Gọi
 
-Tất cả anh chị em khi phục vụ phương pháp Thanh lọc Thân Tâm này, đều có chung một tên gọi thân thương là **Người Phục Vụ** (viết tắt là **"NPV"**).
+Tất cả anh chị em khi phục vụ phương pháp Sống Khỏe Thuận Tự Nhiên này, đều có chung một tên gọi thân thương là **Người Phục Vụ** (viết tắt là **"NPV"**).
 
 Thông qua việc đồng thuận về tên gọi, chúng ta cũng đồng thuận về tâm thế khi cùng nhau phục vụ cộng đồng:
 
