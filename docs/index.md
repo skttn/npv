@@ -20,7 +20,7 @@ icon: lucide/book-open
 
 ---
 
-## SỔ TAY NGƯỜI PHỤC VỤ Bạn Đến Với Gia Đình Sống Khỏe Thuận Tự Nhiên
+## Chào Mừng Bạn Đến Với Gia Đình Sống Khỏe Thuận Tự Nhiên
 
 Thật lòng biết ơn Bạn đã phát tâm trong sạch, trở về phục vụ cộng đồng, sau khi đã chứng nghiệm những lợi lạc chân thật mà Phương pháp này đã mang đến cho chính mình, cho mọi người và cho môi trường - Vũ Trụ xung quanh.
 
