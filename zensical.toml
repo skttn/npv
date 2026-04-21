@@ -68,6 +68,9 @@ nav = [
     {"Khác" = [
      "ve-chuong-trinh/khac/loi-chia-se-tu-thay.md",
      "ve-chuong-trinh/khac/thuong-thuc-can-biet.md"
+    ]},
+    {"Cơ Cấu Nhân Sự" = [
+     "ve-chuong-trinh/co-cau-nhan-su.md"
     ]}
   ]},
   {"Điều Phối" = [
@@ -395,7 +398,7 @@ toggle.name = "Switch to light mode"
 # ----------------------------------------------------------------------------
 [project.theme.font]
 text = "Noto Serif"
-code = "JetBrains Mono"
+code = "Noto Sans"
 
 # ----------------------------------------------------------------------------
 # You can configure your own logo to be shown in the header using the "logo"
@@ -422,3 +425,20 @@ logo = "images/logo-skttn.png"
 #[[project.extra.social]]
 #icon = "fontawesome/brands/github"
 #link = "https://github.com/user/repo"
+
+# ----------------------------------------------------------------------------
+# Enable Mermaid.js diagram support
+# ----------------------------------------------------------------------------
+[project.markdown_extensions]
+admonition = {}
+attr_list = {}
+md_in_html = {}
+
+[project.markdown_extensions.pymdownx]
+tabbed = { alternate_style = true }
+tasklist = { custom_checkbox = true }
+
+[project.markdown_extensions.pymdownx.superfences]
+custom_fences = [
+  { name = "mermaid", class = "mermaid", format = "pymdownx.superfences.fence_code_format" }
+]
