@@ -87,6 +87,9 @@ nav = [
     ]},
     {"Nhiệm Vụ" = [
      "huan-luyen/nhiem-vu.md"
+    ]},
+    {"Kỹ Năng" = [
+     "huan-luyen/ky-nang.md"
     ]}
   ]},
   {"Chăm Sóc" = [
