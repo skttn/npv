@@ -44,6 +44,24 @@ Tổng hợp các bài nuôi dưỡng và trị liệu trong chương trình S�
 
 ---
 
+## Tổng Hợp Lời Dẫn Ngồi Bình Yên
+
+Tổng hợp các lời dẫn ngồi bình yên trong chương trình Sống Khỏe Thuận Tự Nhiên.
+
+[▶ Mở trên YouTube](https://www.youtube.com/playlist?list=PLIXL5s5OCkjN4uuPvhZzhcl5pbz3FEBTp){ .md-button target="_blank" }
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-top: 1rem;">
+  <iframe
+    src="https://www.youtube.com/embed/videoseries?list=PLIXL5s5OCkjN4uuPvhZzhcl5pbz3FEBTp"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    title="Tổng hợp lời dẫn ngồi bình yên - Sống Khỏe Thuận Tự Nhiên">
+  </iframe>
+</div>
+
+---
+
 ## Tổng Hợp Bài Tập
 
 Tổng hợp các bài tập trong chương trình Sống Khỏe Thuận Tự Nhiên.
