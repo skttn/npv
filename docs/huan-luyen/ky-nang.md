@@ -189,5 +189,5 @@ Các video đào tạo Người Phục Vụ.
 | Tài nguyên | Đường dẫn |
 |---|---|
 | 🗓 Lịch chương trình TLTT cơ bản | [↗ Xem lịch](https://songchanhniem.com/lich-chuong-trinh-co-ban/){ target="_blank" } |
-| 📦 Đăng ký thực dược thanh lọc thêm và các sản phẩm hỗ trợ | [↗ Xem tại đây](https://thanhlocthantam.com.vn/){ target="_blank" } |
+| 📦 Đăng ký thực dược thanh lọc thêm và các sản phẩm hỗ trợ | [↗ Xem tại đây](https://zalo.me/0869921155){ target="_blank" } |
 | 💎 Phiếu góp ý dành cho Người Phục Vụ / Thiện Nguyện Viên | [↗ Điền phiếu](https://forms.gle/HXQWXrjWbaigcWy88){ target="_blank" } |
